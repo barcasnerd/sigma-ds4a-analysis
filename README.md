@@ -7,6 +7,7 @@
  - **models_evaluation:** To select an specific model (the best one), we defined some time, optimization and score model comparisons, so in this notebook you will find all of the evaluation process.
  - **random_forest_model:** This is the main, final and actual model used in the final product which best predict categories from tickets (according to model evaluations).
  - **text_preprocessing:** Contains the analysis to clean and delete *stopwords* inside description text.
+ - **final_model_implementation:** This is the main, final and actual model used in the final product which best predict categories from tickets.
  
 ### Code Base
 <a href="https://github.com/barcasnerd/sigma-ds4a-classifier">Sigma Classifier, Final Project for DS4A Correlation One Program</a>
