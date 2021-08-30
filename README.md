@@ -2,7 +2,10 @@
 > This repository contains the base files behind the analysis of each of the models that served as the basis for creating the final project for the Correlation One DS4A course.
 
 ### Structure
- -----Aquí va la explicación de cada archivo----
+ - **EDA:** The exploratory data analysis which contains an approach to all data and resoruces provided by the company.
+ - **database_cleaning:** In this notebook the team made a redefinition of all raw data to achive the purpose of giving the best entries for the possible models.
+ - **models_evaluation:** To select an specific model (the best one), we defined some time, optimization and score model comparisons, so in this notebook you will find all of the evaluation process.
+ - **random_forest_model:** This is the main, final and actual model used in the final product which best predict categories from tickets (according to model evaluations).
  
 ### Code Base
 <a href="https://github.com/barcasnerd/sigma-ds4a-classifier">Sigma Classifier, Final Project for DS4A Correlation One Program</a>
